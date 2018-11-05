@@ -91,7 +91,7 @@ template<class Key, class Value> void SkipList<Key, Value>::Insert (const Key &k
     if (level == -1) {
         level = GetInsertLevel();
     }
-    if (level + 1 > curlevel) {
+    if (level >= curlevel) {
         header->forwardlist.push_back(static_cast<SkNode<Key, Value> *>(nullptr));
         level = curlevel;
     }
