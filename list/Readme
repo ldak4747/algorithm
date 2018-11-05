@@ -1,5 +1,6 @@
 Readme
 
 easy:
-OJ2:    add_two_numbers
+OJ2     add_two_numbers
 OJ445   add_two_numbers_ii
+OJ237   delete_node_in_a_linked_list
