@@ -3,7 +3,6 @@
 /*
  *  很基础的题，代码量比较大，考量的是基础代码能力
  * */
-
 struct ListNode {
     int val;
     ListNode *next;
