@@ -7,6 +7,7 @@ OJ237   delete_node_in_a_linked_list
 OJ203   remove_linked_list_elements
 OJ817   linked_list_components
 OJ876   middle_of_the_linked_list
+OJ83    remove_duplicates_from_sorted_list
 
 进阶:
 OJ160   intersections_of_two_linked_lists
