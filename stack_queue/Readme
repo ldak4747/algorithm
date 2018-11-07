@@ -4,3 +4,9 @@ Readme:
 OJ155   min_stack
 OJ225   implememt_stack_using_queue
 OJ232   implememt_queue_using_stack
+
+困难:
+“利用栈找到序列中第一个比它大的数”系列: 
+OJ739   daily temperatures
+OJ496   next_greater_element
+OJ503   next_greater_element_ii
