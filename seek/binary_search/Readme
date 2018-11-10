@@ -3,3 +3,5 @@ OJ704   binary_search
 OJ374   guess_number_higher_or_lower
 
 进阶:
+    按某种条件的二分查找
+    OJ852   peak_index_in_a_moutain_array
