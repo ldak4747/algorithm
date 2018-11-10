@@ -5,5 +5,6 @@ OJ238   product_of_array_except_self
 
 
 
-
-OJ169   majority_elememt(众数)
+    moore vote
+    OJ169   majority_elememt(>1/2 众数)
+    OJ229   majority_elememt_ii(>1/3 众数)
