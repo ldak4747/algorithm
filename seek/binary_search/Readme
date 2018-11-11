@@ -19,3 +19,4 @@ OJ374   guess_number_higher_or_lower
             运用于找行列有序的矩阵的第K大/小的元素
             OJ378   kth_smallest_element_in_a_sorted_matrix
             OJ668   kth_smallest_number_in_multiplication_table
+            OJ786   kth_smallest_prime_fraction
