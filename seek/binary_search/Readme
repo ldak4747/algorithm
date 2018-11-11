@@ -13,3 +13,9 @@ OJ374   guess_number_higher_or_lower
     OJ34    find_first_and_last_position_of_element_in_sorted_array
     OJ436   find_right_interval
     OJ744   find_smallest_letter_greater_than_target
+    OJ352   data_stream_as_disjoint_intervals
+
+        lower_bound/upper_bound的更复杂运用
+            运用于找行列有序的矩阵的第K大/小的元素
+            OJ378   kth_smallest_element_in_a_sorted_matrix
+            OJ668   kth_smallest_number_in_multiplication_table
