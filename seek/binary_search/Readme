@@ -21,3 +21,6 @@ OJ374   guess_number_higher_or_lower
             OJ378   kth_smallest_element_in_a_sorted_matrix
             OJ668   kth_smallest_number_in_multiplication_table
             OJ786   kth_smallest_prime_fraction
+
+    基于二分查找的灵活运用
+    OJ74    search_a_2d_matrix
