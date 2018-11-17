@@ -6,6 +6,7 @@ OJ374   guess_number_higher_or_lower
     按某种条件的二分查找
     OJ852   peak_index_in_a_moutain_array
     OJ162   find_peak_element
+    OJ153   find_minimum_in_rotated_sorted_array
 
     lower_bound/upper_bound
     OJ278   first_bad_version
