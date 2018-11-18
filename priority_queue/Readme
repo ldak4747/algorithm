@@ -4,5 +4,8 @@ OJ414   thrid_maximum_number
 OJ347   top_k_freqeuent_elements
 OJ451   sort_characters_by_freqency
 
+进阶
+OJ373   find_k_pair_with_smallest_sums
+
 困难
 OJ659   split_array_into_consecutive_subsequences
