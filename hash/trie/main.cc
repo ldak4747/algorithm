@@ -15,6 +15,7 @@ void test () {
         chars[idx++] = start;
     }
 
+    std::unordered_set<std::string> A, B;
     Trie trie;
     for (int i = 0; i < 100; i++) {
         std::random_device rd;
@@ -23,8 +24,12 @@ void test () {
             hash += chars[rd() % chars.size()];
         }
         trie.Insert(hash);
+        A.insert(hash);
         assert(trie.Search(hash));
     }
+
+    trie.getAll(B);
+    assert(A == B);
 }
 
 int main () {
